@@ -45,8 +45,6 @@ Antes de iniciar, certifique-se de ter o seguinte instalado:
 
 5. Abra o navegador e acesse: http://localhost:3000.
 
-======================================================================================
-
 ## Estrutura do Código
 
 ## Principais Estados
