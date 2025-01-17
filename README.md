@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculadora React
 
 Este é um projeto de uma calculadora simples desenvolvida em React. O objetivo é demonstrar o uso de componentes funcionais, manipulação de estados com `useState` e gerenciamento de eventos.
@@ -86,3 +87,7 @@ Antes de iniciar, certifique-se de ter o seguinte instalado:
 
 Desenvolvido com ❤️ por Gabriel dos Anjos
 
+=======
+# react
+testes de aprendizado react
+>>>>>>> 0dcb6d0a70b94da271b4586c356ae2a3a554c1b3
